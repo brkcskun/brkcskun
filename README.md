@@ -1,6 +1,6 @@
 ### Hello 👋, I am Burak!
-I am Senior Software Developer. I am also Industrial Engineer.
-* 📫 How to reach me: [burakc34@gmail.com](mailto:burakc34@gmail.com)
+I am Senior Software Developer.
+* 📫 E-mail: [burakc34@gmail.com](mailto:burakc34@gmail.com)
 
 ### Skills
 <p align="left">
